@@ -19,7 +19,7 @@ Built a deep learning model using TensorFlow and Keras to predict health insuran
 - Achieved an MAE of under 3500, successfully passing the challenge requirements.
 - Tech Stack: Python, TensorFlow, Keras, Matplotlib, Pandas
 
-(Link to code: Predict Health Costs with Regression)
+(Link to code: https://github.com/gkalfass/Projects/blob/FreeCodeCamp_projects/fcc_predict_health_costs_with_regression.py)
 
 
 2. SMS Spam Detection
@@ -30,7 +30,7 @@ Developed a Logistic Regression model to classify SMS messages as spam or ham us
 - Implemented a function to predict whether a message is spam based on its text.
 - Tech Stack: Python, Scikit-learn, Pandas, TF-IDF, Logistic Regression
 
-(Link to code: SMS Spam Classification)
+(Link to code: https://github.com/gkalfass/Projects/blob/FreeCodeCamp_projects/fcc_sms_text_classification.py)
 
 3. Book Recommendation System with KNN
 
@@ -40,7 +40,7 @@ Created a K-nearest neighbors (KNN) algorithm to recommend books based on user r
 - Implemented a recommendation function to provide book suggestions based on user input.
 - Tech Stack: Python, Scikit-learn, Pandas, Matplotlib, Nearest Neighbors
 
-(Link to code: Book Recommendation System)
+(Link to code: https://github.com/gkalfass/Projects/blob/FreeCodeCamp_projects/fcc_book_recommendation_knn.py)
 
 4. Cat vs Dog Image Classification
 
@@ -50,6 +50,6 @@ Developed a Convolutional Neural Network (CNN) using TensorFlow and Keras to cla
 - Achieved over 63% accuracy in correctly classifying images in the challenge.
 - Tech Stack: Python, TensorFlow, Keras, ImageDataGenerator, Matplotlib
 
-(Link to code: Cat vs Dog Image Classification)
+(Link to code: https://github.com/gkalfass/Projects/blob/FreeCodeCamp_projects/project_fcc_cat_dog.py)
 
 Feel free to explore my repositories, and don’t hesitate to reach out for collaborations or discussions on data-driven solutions! 🚀
