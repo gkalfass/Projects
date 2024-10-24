@@ -47,7 +47,7 @@ Created a K-nearest neighbors (KNN) algorithm to recommend books based on user r
 Developed a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images of cats and dogs.
 
 - Utilized ImageDataGenerator for data augmentation and applied MaxPooling layers to reduce the dimensionality of image data.
-- Achieved over 63% accuracy in correctly classifying images in the challenge.
+- Achieved over 63% accuracy in correctly classifying images in the challenge (the accuracy is small due to the small amount of epochs).
 - Tech Stack: Python, TensorFlow, Keras, ImageDataGenerator, Matplotlib
 
 (Link to code: https://github.com/gkalfass/Projects/blob/FreeCodeCamp_projects/project_fcc_cat_dog.py)
